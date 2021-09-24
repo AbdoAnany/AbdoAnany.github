@@ -19,7 +19,7 @@ const RESOURCES = {
 "assets/assets/projects/java.png": "62be9fb6e1d7166e9cbeeed913096752",
 "assets/assets/projects/medkit.png": "6fa1d5264eb91a094be1164feaf5a54e",
 "assets/assets/projects/messenger.png": "f28ead750653b586737ed63db6f2d53a",
-"assets/assets/projects/portfolio-1.png": "af1f8bca075d3b09988e47b4bc2c153c",
+"assets/assets/projects/portfolio-1.png": "5687dd0d9e6d4cdef9388743062dbcfa",
 "assets/assets/projects/portfolio-2.png": "98b8d08ccc15e7f00567d45fa1beb0c0",
 "assets/assets/projects/portfolio-3.png": "ec09e358cd38b03a2b3d83424b7db525",
 "assets/assets/projects/quran.png": "ee4f5ba79f811bc1618071339b327759",
@@ -64,9 +64,9 @@ const RESOURCES = {
 "favicon.ico": "62ffa0f5a573a1d87b7d92118965bf16",
 "icons/Icon-192.png": "c6f11b047ff238f40b76d26d36ab30c4",
 "icons/Icon-512.png": "05bbef9d8693098c5320db7520c7e11d",
-"index.html": "1426491c62ba5deee499afd722a15da9",
-"/": "1426491c62ba5deee499afd722a15da9",
-"main.dart.js": "4f00e03f840e358354be9401b3a29e9d",
+"index.html": "b38253d6c569334e919cc07aeff26be8",
+"/": "b38253d6c569334e919cc07aeff26be8",
+"main.dart.js": "38e43f66bd19b12c99af540ae5a78627",
 "manifest.json": "cfeab73b8805e17b4b07a359c3e8efd2",
 "version.json": "9a4dddba415c9ee5265cd5f5d9963a6a"
 };
