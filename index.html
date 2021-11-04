@@ -28,6 +28,7 @@
 
   <title>Abdelrahman Anany</title>
   <link rel="manifest" href="manifest.json">
+
   <style>
     .lds-ripple {
       display: inline-block;
@@ -94,10 +95,33 @@
 <!-- This script installs service_worker.js to provide PWA functionality to
      application. For more information, see:
      https://developers.google.com/web/fundamentals/primers/service-workers -->
+<script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-app.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-firestore.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-auth.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-storage.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-messaging.js"></script>
+<script src="https://www.gstatic.com/firebasejs/8.6.1/firebase-analytics.js"></script>
+
+<script>
+
+var firebaseConfig = {
+    apiKey: "AIzaSyC3Ver13w1YiHL2NlvxGtqmD4OhJVtDY4k",
+    authDomain: "my-portfolio-927b0.firebaseapp.com",
+    projectId: "my-portfolio-927b0",
+    storageBucket: "my-portfolio-927b0.appspot.com",
+    messagingSenderId: "203681056891",
+    appId: "1:203681056891:web:73116eeedcbe2878393ade",
+    measurementId: "G-1LM0B7FJNH"
+  };
+
+firebase.initializeApp(firebaseConfig);
+firebase.analytics();
+</script>
+
 <script>
     if ('serviceWorker' in navigator) {
       window.addEventListener('flutter-first-frame', function () {
-        navigator.serviceWorker.register('flutter_service_worker.js?v=2224847577');
+        navigator.serviceWorker.register('flutter_service_worker.js?v=122961811');
       });
     }
   </script>
