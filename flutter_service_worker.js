@@ -25,7 +25,6 @@ const RESOURCES = {
 "assets/assets/projects/portfolio-3.png": "ec09e358cd38b03a2b3d83424b7db525",
 "assets/assets/projects/quran.png": "ee4f5ba79f811bc1618071339b327759",
 "assets/assets/projects/souq.png": "ab4e1d1e0fbef197388e0d31235c8e5e",
-"assets/assets/projects/web.png": "67f9c58669fa5ac9ab1ad7fb8882ba69",
 "assets/assets/services/app.png": "9d2da88edb7f550ef24874b306b4ae12",
 "assets/assets/services/blog.png": "5e1cbb2c67e2b8ea9ae4bcce0705d2a4",
 "assets/assets/services/fiverr.png": "9d4018924e1f0e983a86e7eaf8a0958b",
@@ -65,9 +64,9 @@ const RESOURCES = {
 "favicon.ico": "62ffa0f5a573a1d87b7d92118965bf16",
 "icons/Icon-192.png": "c6f11b047ff238f40b76d26d36ab30c4",
 "icons/Icon-512.png": "05bbef9d8693098c5320db7520c7e11d",
-"index.html": "4af3393549fe5d6aa3ed80c95d675dce",
-"/": "4af3393549fe5d6aa3ed80c95d675dce",
-"main.dart.js": "7dbb6bde27732d8563f805ef99517525",
+"index.html": "46616b7ce5656509cdd0d2dafba44dfa",
+"/": "46616b7ce5656509cdd0d2dafba44dfa",
+"main.dart.js": "a71df6bfee69b34c00f7bdadaacafb94",
 "manifest.json": "cfeab73b8805e17b4b07a359c3e8efd2",
 "version.json": "9a4dddba415c9ee5265cd5f5d9963a6a"
 };
